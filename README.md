@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    I'm a Front-End web developer and i am a student in a technical high school in computer networks.
+    I'm a Front-End web developer and i am a student in a technical high school in computer networks on ETE - Pedro Leão Leal - PE, Brazil.
   </p>
 </div>
 
