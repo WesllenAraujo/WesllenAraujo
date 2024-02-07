@@ -1,34 +1,28 @@
-<div>
-  
-  <h1 align="center">
-    Hi, are you ok? I am 
-    <a href="https://www.linkedin.com/in/wesllen-do-carmo-ara%C3%BAjo-0b1115276/">Wesllen Araújo</a>
-  </h1>
-  
-  <p align="center">
-    I'm a Front-End web developer and i am a student in a technical high school in computer networks on ETE - Pedro Leão Leal - PE, Brazil.
-  </p>
-</div>
+* # Hi, everybody! My name is Wesllen,
+  # I am a Web Frontend Developer 💻
+  ### I'm a programming enthusiastic! I love to code ❤️
 
-<div align="center">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesllenAraujo&theme=dracula&hide_border=false&&layout=compact"/>
-</div>
+  <hr>
 
-<div align="center" valign="top"><br>
+* ## Where can you find me?
+<a href="mailto:wesllenaraujo.developer@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesllen-do-carmo-ara%C3%BAjo-0b1115276/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wesllenaraujo_7)
+
+<hr>
+
+* ## Which skill do i have?
+
+<div style="display:flex;">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="GITHUB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-</div><br>
-
-<div align="center">
-  <a href="https://www.instagram.com/wellysz0312/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wesllen-do-carmo-ara%C3%BAjo-0b1115276/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:wesllenaraujo.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+<hr>
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesllenAraujo&theme=tokyonight&hide_border=false&&layout=compact"/>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesllenAraujo&theme=tokyonight)
