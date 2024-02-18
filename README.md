@@ -11,7 +11,7 @@
 
 <hr>
 
-* ## Which skill do i have?
+* ## Which skills do I have?
 
 <div style="display:flex;">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
