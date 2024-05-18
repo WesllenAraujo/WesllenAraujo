@@ -1,5 +1,5 @@
 * # Hi, everybody! My name is Wesllen,
-  # I am a Web Frontend Developer 💻
+  # I am a Frontend Web Developer 💻
   ### I'm a programming enthusiastic! I love to code ❤️
 
   <hr>
